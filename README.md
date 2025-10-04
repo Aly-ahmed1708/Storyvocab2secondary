@@ -1,2 +1,2 @@
 # Storyvocab2secondary
-A website for the story vicab
+A website for the story vocab
